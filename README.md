@@ -1,5 +1,3 @@
-Hello World!
+This a program that says Hello, Git world!
 
-This is an amazing repository.
-
-This is text I typed directly from the browser in GitHub.
+In your command prompt, type in file name, helloworld.py
